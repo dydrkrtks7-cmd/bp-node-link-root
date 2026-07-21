@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://node-link.shop/sitemap.xml
+Sitemap: https://node-link.shop/sitemap-index.xml
